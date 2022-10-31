@@ -19,3 +19,11 @@ for the first time:
 for all other times (until the bot is deleted):
  -just run the ServerMain.class file
    "java ServerMain <listeningPort>"
+ 
+ 
+ 
+ 
+ 
+ #Note
+ I know this code can still improve a lot, I will try to make updates and improvements whenever possible.
+If you find any bugs or problems of any kind please do not hesitate to report it, thank you.
