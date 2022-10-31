@@ -20,10 +20,14 @@ for all other times (until the bot is deleted):
  -just run the ServerMain.class file
    "java ServerMain <listeningPort>"
  
- 
+  
+It is recommended to set port forwarding, with the port equal to the listening port set, in the router that manages the ConsoleLogServer subnet.
+To reach this network from the outside (internet) it is recommended to have Dynamic DNS.
  
  
  
  #Note
+ I choose PiBot because i run ConsoleLog on my Raspberry Pi 3 model B... just a curiosity.
+
  I know this code can still improve a lot, I will try to make updates and improvements whenever possible.
 If you find any bugs or problems of any kind please do not hesitate to report it, thank you.
